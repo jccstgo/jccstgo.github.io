@@ -7,8 +7,6 @@ This project reflects what I learned in my HTML and CSS course, in which I addre
  - [A Website about Catw](https://github.com/jccstgo/Proyectos-HTML-y-CSS/tree/main/New%20Project)
   - [Website with Bootstrap](https://github.com/jccstgo/Proyectos-HTML-y-CSS/tree/main/bootstrap4_project)
 
-You can find a lot of examples here!
-
 # JavaScript Projects!
 This project reflects what I learned in my JavaScript course, in which I addressed the following projects:
 
@@ -17,8 +15,11 @@ This project reflects what I learned in my JavaScript course, in which I address
   - [TODO-APP](https://github.com/jccstgo/JavaScript-Projects/tree/main/Basic%20JavaScript%20Projects/TODO_APP)
 
   # C# Projects!
-This project reflects what I learned in my JavaScript course, in which I addressed the following projects:
+This project reflects what I learned in my C# course, in which I addressed the following projects:
 
  - [Lambda Functions](https://github.com/jccstgo/Basic-C-Sharp-Projects/tree/main/Lambda)
  - [NewlestterApp MVC](https://github.com/jccstgo/Basic-C-Sharp-Projects/tree/main/NewlestterAppMVC)
-- [TwentyOne Game](https://github.com/jccstgo/Basic-C-Sharp-Projects/tree/main/TwentyOne)
+- [TwentyOne Game](https://github.com/jccstgo/Basic-C-Sharp-Projects/tree/main/TwentyOne) (Try betting a little!)
+
+
+You can find a lot of examples here!
