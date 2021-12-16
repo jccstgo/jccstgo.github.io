@@ -15,3 +15,10 @@ This project reflects what I learned in my JavaScript course, in which I address
  - [Piizza Menu](https://github.com/jccstgo/JavaScript-Projects/tree/main/Basic%20JavaScript%20Projects/Pizza_Project)
  - [Tic-Tac-Toe](https://github.com/jccstgo/JavaScript-Projects/tree/main/Basic%20JavaScript%20Projects/TicTacToe)
   - [TODO-APP](https://github.com/jccstgo/JavaScript-Projects/tree/main/Basic%20JavaScript%20Projects/TODO_APP)
+
+  # C# Projects!
+This project reflects what I learned in my JavaScript course, in which I addressed the following projects:
+
+ - [Lambda Functions](https://github.com/jccstgo/Basic-C-Sharp-Projects/tree/main/Lambda)
+ - [NewlestterApp MVC](https://github.com/jccstgo/Basic-C-Sharp-Projects/tree/main/NewlestterAppMVC)
+- [TwentyOne Game](https://github.com/jccstgo/Basic-C-Sharp-Projects/tree/main/TwentyOne)
