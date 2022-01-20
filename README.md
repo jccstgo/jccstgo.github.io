@@ -27,5 +27,5 @@ This project reflects what I learned in my Unity course, in which I addressed th
  - [Ball Motion](https://github.com/jccstgo/Unity/tree/main/Ball-Motion)
  - [Solar System](https://github.com/jccstgo/Unity/tree/main/Solar_System)
 - [Maze Game](https://github.com/jccstgo/Unity/tree/main/MazeGame) (Play it!)
-- 
+
 You can find a lot of examples here!
